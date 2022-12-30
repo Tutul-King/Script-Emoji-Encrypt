@@ -1,0 +1,1 @@
+# Script-Emoji-Encrypt
