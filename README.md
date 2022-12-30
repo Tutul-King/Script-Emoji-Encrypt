@@ -17,3 +17,5 @@ git clone https://github.com/Tutul-King/Script-Emoji-Encrypt
 cd Script-Emoji-Encrypt
 
 python Script-Emoji-Encrypt.py
+![Screenshot_2022-12-30-12-11-43-366_com termux](https://user-images.githubusercontent.com/106426526/210040217-8a48d67b-a1a8-41bd-b0d8-514ebaf25b0e.jpg)
+
